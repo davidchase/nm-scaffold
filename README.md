@@ -6,5 +6,6 @@ Inspired by [generator-nm](https://github.com/sindresorhus/generator-nm) but wit
 ### Usage
 
 ```sh
+# run the following command in your cli and follow the instructions
 λ nm
 ```
