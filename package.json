@@ -1,0 +1,25 @@
+{
+  "name": "nm-scaffold",
+  "description": "Scaffold for building node modules",
+  "version": "1.0.0",
+  "author": "David Annopolsky <davidchase03@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/davidchase/nm-scaffold/issues"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/davidchase/nm-scaffold#readme",
+  "keywords": [
+    "modules",
+    "node",
+    "scaffolds"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidchase/nm-scaffold.git"
+  }
+}
