@@ -2,7 +2,7 @@
   "name": "nm-scaffold",
   "description": "Scaffold for building node modules",
   "version": "1.0.0",
-  "author": "David Annopolsky <davidchase03@gmail.com>",
+  "author": "David Chase <davidchase03@gmail.com>",
   "bugs": {
     "url": "https://github.com/davidchase/nm-scaffold/issues"
   },
