@@ -7,7 +7,8 @@
     "url": "https://github.com/davidchase/nm-scaffold/issues"
   },
   "dependencies": {
-    "event-stream": "^3.3.1"
+    "event-stream": "^3.3.1",
+    "inquirer": "^0.8.5"
   },
   "devDependencies": {},
   "homepage": "https://github.com/davidchase/nm-scaffold#readme",
